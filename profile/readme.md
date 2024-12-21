@@ -1,2 +1,2 @@
 # segcopter technology
-putting the seagull in tech since 2024
+putting the *spinning* seagull in tech since 2024
